@@ -292,7 +292,12 @@ export default ({ logo }) => ({ certificate }) => (
     </head>
     <div
       className="container"
-      style={{ border: 1, borderColor: "#AAA", borderStyle: "solid" }}
+      style={{
+        border: 1,
+        borderColor: "#AAA",
+        borderStyle: "solid",
+        minWidth: "1000px"
+      }}
     >
       <div className="row justify-content-start mt-5 ml-5 mr-1">
         <div className="col-9">
