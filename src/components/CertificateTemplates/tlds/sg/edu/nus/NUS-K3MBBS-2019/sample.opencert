@@ -1,0 +1,251 @@
+{
+  "schema": "opencerts/v1.5",
+  "data": {
+    "id": "0f64e82b-4fb7-42e2-870c-1f1b83d72439:string:NUS-A0119114R-B081000-P10182678-18-20180430",
+    "$template": "710f59a0-47ac-44d2-a1f6-48b4039f9f4d:string:sg/edu/nus/NUS-K3MBBS-2019",
+    "issuedOn": "567723b4-cecb-4e5e-aabd-fea685a60e00:string:2019-09-11T17:20:48+08:00",
+    "name": "14ee8000-a883-450f-9a99-d85cbd10b99e:string:NUS Degree",
+    "issuers": [
+      {
+        "name": "5af53fca-ea8c-43e4-b463-50fd839f64ad:string:National University of Singapore",
+        "uen": "7de27d3a-4982-4695-bc83-7d529e302d39:string:200604346E",
+        "url": "33ae4fe5-df29-4723-a199-4253b71ae410:string:https://www.nus.edu.sg",
+        "email": "c6585af6-8644-4331-9612-8db1dd1fc871:string:transcript@nus.edu.sg",
+        "certificateStore": "799cbefd-0597-4f6e-a412-65330428de96:string:0xfEbB273495F5C2c4783E23424Fe9773691b57fcB"
+      }
+    ],
+    "recipient": {
+      "name": "d98f94d9-3513-460b-ba20-0dcc032bc60d:string:A0119114R, name",
+      "studentId": "ac9b0280-41d3-4a54-bd6e-4dad0cedb9a6:string:A0119114R",
+      "dateOfBirth": "d5e48696-4eed-4611-bf27-6744fc985e90:string:1905-01-01"
+    },
+    "transcript": [
+      {
+        "name": "2befcee8-10dc-4e11-830c-e04ec0b5fb6b:string:Normal Structure and Function",
+        "courseCode": "e7cdffca-5e06-4a6c-b65a-0c365f86c4e7:string:MD1140",
+        "grade": "2716c854-808a-4641-8786-7db306418a73:string:P",
+        "courseCredit": "413be605-4372-4134-abf6-b5817a68c1fb:number:1",
+        "gradingBasis": "eeda382a-6d57-4e04-a9bc-8cdca0cbbb12:string:PNF",
+        "includeInGPA": "6782f8c7-4bb7-4023-abfd-c66333b4c575:boolean:true",
+        "reportNo": "00090621-16ba-477b-b891-d7b719d0fcb8:number:1",
+        "semester": "b32607b6-c8e3-4113-9300-7cbd5baf0427:string:1300"
+      },
+      {
+        "name": "7144d2f1-56e6-4062-a2b4-432348da744a:string:Abnormal Structure and Function",
+        "courseCode": "110b63c0-73ab-430e-9216-0696aa6b8327:string:MD2140",
+        "grade": "6f199ebc-d08d-4aa7-9bda-f15805473e42:string:P",
+        "courseCredit": "d817d7e0-deab-4946-9c11-0ef205f4df34:number:1.4",
+        "gradingBasis": "9f6bcfb6-9e80-49f9-afc0-a57419bc6cf5:string:PNF",
+        "includeInGPA": "f89773c6-8b5c-4c91-b867-4647056bca00:boolean:true",
+        "reportNo": "8a64146a-85da-4d3e-8ec7-d8c7a9a62e5d:number:1",
+        "semester": "95969701-684c-4e06-8d3d-6d5057dce039:string:1400"
+      },
+      {
+        "name": "0b837da1-f3d1-43a0-89d4-f362b04b7224:string:Clinical Skills Foundation Programme",
+        "courseCode": "315a9d08-090d-44b9-bac6-2c9d5ccaae4a:string:MD2150",
+        "grade": "9a196597-f708-4381-8fd5-9250fd28bbc7:string:P",
+        "courseCredit": "08a10bdf-3917-4e71-bd08-607f5dba4300:number:0.6",
+        "gradingBasis": "2c2bd83a-4522-479f-ac6b-f443622fcda0:string:PNF",
+        "includeInGPA": "2bbc9496-cb04-4419-9056-c1e3bb0a91fe:boolean:true",
+        "reportNo": "6dd9de2d-1750-4693-9624-dc24a826748b:number:1",
+        "semester": "1ca6b7dc-7635-4764-b1fa-96b47abf47f2:string:1400"
+      },
+      {
+        "name": "1de7aee6-89c9-4a03-8765-d7b883ccd24d:string:Core Clinical Practice",
+        "courseCode": "a3000be7-70b5-4e2c-adf9-3543b15c2238:string:MD3140",
+        "grade": "ca753a2c-96d9-4685-af5c-22e85816d347:string:B+",
+        "courseCredit": "fe98831b-d4d2-4e75-9653-401deced5f4f:number:1",
+        "gradingBasis": "a5465681-8eb0-413c-91c2-e0d00e096431:string:GRD",
+        "includeInGPA": "eeb943ae-7d2f-4907-a2c9-f3dcc602ed67:boolean:true",
+        "reportNo": "be21d3e8-8184-4909-8441-72226c7e2b67:number:1",
+        "semester": "469bf5e9-3ad3-45f0-830a-3e40216cdb0f:string:1500"
+      },
+      {
+        "name": "db0d4472-ff9b-4ebf-a970-01447715f886:string:Acute and Specialty Clinical Practice",
+        "courseCode": "87602176-bf8d-4d0f-8ed2-e7b244c158a7:string:MD4140",
+        "grade": "1d2d8b79-865c-46f0-95ca-62ef33c8452a:string:A-",
+        "courseCredit": "ba1a2c29-17a3-4a79-bc0c-d5d016daeded:number:1",
+        "gradingBasis": "2a608017-c226-4af9-9768-3844b7cb4fae:string:GRD",
+        "includeInGPA": "7ca31c5f-100f-4f8c-ae7d-404d09b338b1:boolean:true",
+        "reportNo": "02952c27-0369-425f-b61b-628bc8bd9ee2:number:1",
+        "semester": "bddfaf67-22b1-4020-b2d9-500c91def4cc:string:1600"
+      },
+      {
+        "name": "b6c31bb4-3569-4c77-b38b-10a8f5cf7ff3:string:Community Health Posting",
+        "courseCode": "3f5ac289-078b-4aed-ba83-61d6a0dfe38f:string:MD4150",
+        "grade": "85ca1df7-2219-45b8-9291-89f84b3f9056:string:IP",
+        "courseCredit": "13a7a8c0-29ae-49b3-bf7f-119c4f3a307e:number:1",
+        "gradingBasis": "b4c7e6e8-fb2e-40bb-a302-098d07b84938:string:NCM",
+        "includeInGPA": "016fdeca-1fbd-4b12-890b-097cadfc1072:boolean:false",
+        "reportNo": "42ca4d06-acd2-4ae5-b742-0e8f5bbd6777:number:1",
+        "semester": "c182d20c-0094-44ca-8602-8c085992fbdd:string:1600"
+      },
+      {
+        "name": "d2fcdabe-23a2-457d-a44b-018534806cef:string:Community Health Posting",
+        "courseCode": "0df9bbd4-3dfa-46c8-ae3b-a1df43d0aacd:string:MD4150",
+        "grade": "2f16e184-767f-4170-a2cf-5132caf679d5:string:P",
+        "courseCredit": "aed2c7fa-a37d-4010-b354-6e54fc98b843:number:1",
+        "gradingBasis": "db89540d-9985-4975-8aad-8b7cfb9dfc87:string:NCM",
+        "includeInGPA": "af9a316c-15b5-47cf-adb8-f8b09073f030:boolean:false",
+        "reportNo": "ea9c2854-abd3-480e-a2da-377f196dc593:number:1",
+        "semester": "5d19a08c-f0dc-4b19-967f-3d2d4c75fcd4:string:1700"
+      },
+      {
+        "name": "db73c111-6d38-4900-94f5-0d3ca6fc762f:string:Medicine",
+        "courseCode": "086564f9-6339-438d-a648-3daa3b93e339:string:MD5140",
+        "grade": "18054901-60dd-4c84-a337-b408529989c9:string:B+",
+        "courseCredit": "9e8aaede-da48-4730-b0b1-4dea7521ef11:number:1",
+        "gradingBasis": "4c7b2c89-c6a2-4c7d-acde-c94be513ddd0:string:GRD",
+        "includeInGPA": "da2a36be-8ba0-4d98-8b7e-a9954db22c99:boolean:true",
+        "reportNo": "1d62af1b-4186-4d06-8e32-87555cf32115:number:1",
+        "semester": "c953b88d-9a6c-4a55-b4eb-c1bb3c9c276d:string:1700"
+      },
+      {
+        "name": "5ccf1e76-b917-47e5-bb1f-53c8762e4453:string:Surgery",
+        "courseCode": "cb947813-e321-4ab1-ac44-48980bcee588:string:MD5150",
+        "grade": "047e6c36-3cc9-4523-a24a-faa3114d903b:string:B+",
+        "courseCredit": "a49711cc-68aa-4f49-adab-d44bed65ef71:number:1",
+        "gradingBasis": "ee8a2ce2-c28a-446d-b70a-eddc55daf54e:string:GRD",
+        "includeInGPA": "de2c07c5-5dcd-4596-b00b-582437dab3f6:boolean:true",
+        "reportNo": "291a37a1-87fa-4bc0-b468-6abcfe04f5cf:number:1",
+        "semester": "d1f67e71-f788-45be-976a-bcc26902f939:string:1700"
+      },
+      {
+        "name": "3b916094-1157-47a4-9274-237eeb0c9cf1:string:Electives",
+        "courseCode": "2880d098-0121-4c83-a726-7a31e699c407:string:MD5160",
+        "grade": "baa20d08-07cd-4e36-8ea3-6e7b523d9bec:string:M",
+        "courseCredit": "857cbed3-a54c-466e-b557-31b3ba0eb7bb:number:1",
+        "gradingBasis": "2833bdfb-bde2-428b-bc63-eeb58cfd66c0:string:NCM",
+        "includeInGPA": "ec8a2264-d4dc-41de-8434-b4223d8e5f23:boolean:false",
+        "reportNo": "b30f38f6-82c2-4364-b293-316c5aa712e1:number:1",
+        "semester": "3d3a0bff-a187-41fe-a768-c47555a4a72a:string:1700"
+      }
+    ],
+    "additionalData": {
+      "degreeScroll": [
+        {
+          "degreeTitle": "1339c04e-e904-4551-8cfd-9cba44ee47e1:string:Bachelor of Medicine and Bachelor of Surgery",
+          "dateConferred": "a1c86c30-aaad-4a6d-99c0-65b041979dc5:string:2018-04-30",
+          "honours": "c6c9b49e-0a03-4844-9970-04a6be6a813e:string:Pass",
+          "degreeCode": "3a4a12a2-76af-42c1-ab6b-551e6324c264:string:B081000",
+          "type": "22461407-7764-4bf5-88f3-f3177319a103:string:K3A (MBBS)"
+        }
+      ],
+      "images": {
+        "PRESIDENT": {
+          "data": "9769ac44-ac3b-4ba3-ac46-c64d5d94b889:string:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAABaCAIAAAAJsExNAAAEy0lEQVR42u2aPVbrOhRGnY4RQE9BB9TMgA6YBTOAir8KZsAsgI4ZUAMdBT3p6NLx/J7e0jpIsqw4tuP73b2LLIhtRTralo5kz25vbxeLRQUgwezq6ur8/Hzd1QDogXp0/lfoy8vLddcEoAeur68RGnRAaJACoUEKhAYpEBqkQGiQAqFBCoQGKRAapEBokAKhQQqEBikQGqRAaJACoUEKhAYpEBqkQGiQAqFBCoQGKRAapEBokAKhQQqEHpvHx8fX11f398XFxWw2W3eNpOgi9NfX1/39ffz9/v7+9vb27u7uX9tJPz8/7+/vn5+fXtk4Jgg9KH0K7Tk5Odnb21t308bm7e3t4eGh6aiPydSEttUWmKgHEbr6b2Q6Pj5ed+vGI29zNeGbHKF/CX16erq1tRV/X024C3unzjRubm78v2dnZxsbG+7vxWLx/PxcD8mTjQZCNwpdRV3rp1Q/z9qR25bjJQjOTJ7jLami26bz5bbmwfRSn393d5dsb2tAfAkfHx9xymHD7vJvO8zX1fBnlsQn+Gn3o5mEPugsiwtLea8Fd0XyNrZhd2UeHh76O78vehY6aJs/2k3o+tO3359Wd1IwuduorXJ5U3ZrW5TMeq3x1e8ROiYpdMatpeKTDEWM65eBhK6vtX/HsbX0npr2L7TtXV/dDkIvRTwVdLi8aSSuY5SPfpMZdXfu7OwEcieFbq12eXwKy6ybXH8OIXS+nKOjo0yoV6d/oZNzdzeh3ZeBLvGo3+Plsbs29JmhN78otFGKhW4a4LvFx97bwY6hrWRTtmCr3U3oOPPxrbPzW7Lw1Zmu0PbMZDIwxOVxdlG+Zspv/iQnX1dgkw3lDUya6vpiPp/X5dhMOtPkXoQOCmk6NNBidLopR1OHdRC6/HJ7N7qm+TG7cGaMl2Ie99N5oe0YVt7ApdKAzGlDCF2SBPa4H9+/0Mmjf4rQQQn1Mjw5XRaSzCXGEdp+U08OLvFIpk8IvdK2nW3wNIUOZpiSPK8uqv5Mjt/xT+eFtjVZReikYZ2Fbu21DinHQIz0YCW5lHl6emrdZ23SYqn+XkroyiwNPfmdOF9UHY3NzU0/2AQjtAtybImtid8HqBpELxQ6ueRtXRQGzSzvtYy1wQDhW1eZrfcJ5dBNBENa65PhSQkd13aV5aAjubvii41voaXikx+h8wUmK+8Go/JC8sNw+Vbj6oz0clJyp7bkSZg7OrLQQW1bn1q3BiS/bVdSwrJClz+pSZ7pmlzea615Rd7piQqdf33UzlZu6pnP5xPMoeMOKFmyuA2yl5cX2211HQ4ODmwSUjUIXf1+MuzWo9/f376GHV4iCNID95QnuacenFmZO7Cw10oS5eDRd1N8VoQX/BNk3usYsw5WMjqoEIROkHnuNRD5lGOcOmiA0AnsEm2cyGSE/tveLF8RhA4JHkmM8xJznF9Wg71gqQ1CgxQIDVIgNEiB0CAFQoMUCA1SIDRIgdAgBUKDFAgNUiA0SIHQIAVCgxQIDVIgNEiB0CAFQoMUCA1SIDRIgdAgBUKDFAgNUiA0SIHQIAVCgxQIDVIgNEiB0CAFQoMUCA1SIDRIgdAgBUKDFAgNUiA0SIHQIAVCgxQIDVIgNEiB0CAFQoMUCA1S/C/0uqsB0Bv/AEwL5dNeBrk9AAAAAElFTkSuQmCC",
+          "width": "305aa34c-e601-4730-b0e3-bae8449043e4:number:240",
+          "height": "b3a57e74-f41c-4899-9791-1f7851d1f712:number:90",
+          "unit": "4c1a2298-6ba8-446a-8fcf-fd3bd1ed4670:string:px"
+        },
+        "TRUSTEES": {
+          "data": "596c2adf-60de-4718-a341-f1730455cdf1:string:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAABaCAIAAAAJsExNAAAEy0lEQVR42u2aPVbrOhRGnY4RQE9BB9TMgA6YBTOAir8KZsAsgI4ZUAMdBT3p6NLx/J7e0jpIsqw4tuP73b2LLIhtRTralo5kz25vbxeLRQUgwezq6ur8/Hzd1QDogXp0/lfoy8vLddcEoAeur68RGnRAaJACoUEKhAYpEBqkQGiQAqFBCoQGKRAapEBokAKhQQqEBikQGqRAaJACoUEKhAYpEBqkQGiQAqFBCoQGKRAapEBokAKhQQqEHpvHx8fX11f398XFxWw2W3eNpOgi9NfX1/39ffz9/v7+9vb27u7uX9tJPz8/7+/vn5+fXtk4Jgg9KH0K7Tk5Odnb21t308bm7e3t4eGh6aiPydSEttUWmKgHEbr6b2Q6Pj5ed+vGI29zNeGbHKF/CX16erq1tRV/X024C3unzjRubm78v2dnZxsbG+7vxWLx/PxcD8mTjQZCNwpdRV3rp1Q/z9qR25bjJQjOTJ7jLami26bz5bbmwfRSn393d5dsb2tAfAkfHx9xymHD7vJvO8zX1fBnlsQn+Gn3o5mEPugsiwtLea8Fd0XyNrZhd2UeHh76O78vehY6aJs/2k3o+tO3359Wd1IwuduorXJ5U3ZrW5TMeq3x1e8ROiYpdMatpeKTDEWM65eBhK6vtX/HsbX0npr2L7TtXV/dDkIvRTwVdLi8aSSuY5SPfpMZdXfu7OwEcieFbq12eXwKy6ybXH8OIXS+nKOjo0yoV6d/oZNzdzeh3ZeBLvGo3+Plsbs29JmhN78otFGKhW4a4LvFx97bwY6hrWRTtmCr3U3oOPPxrbPzW7Lw1Zmu0PbMZDIwxOVxdlG+Zspv/iQnX1dgkw3lDUya6vpiPp/X5dhMOtPkXoQOCmk6NNBidLopR1OHdRC6/HJ7N7qm+TG7cGaMl2Ie99N5oe0YVt7ApdKAzGlDCF2SBPa4H9+/0Mmjf4rQQQn1Mjw5XRaSzCXGEdp+U08OLvFIpk8IvdK2nW3wNIUOZpiSPK8uqv5Mjt/xT+eFtjVZReikYZ2Fbu21DinHQIz0YCW5lHl6emrdZ23SYqn+XkroyiwNPfmdOF9UHY3NzU0/2AQjtAtybImtid8HqBpELxQ6ueRtXRQGzSzvtYy1wQDhW1eZrfcJ5dBNBENa65PhSQkd13aV5aAjubvii41voaXikx+h8wUmK+8Go/JC8sNw+Vbj6oz0clJyp7bkSZg7OrLQQW1bn1q3BiS/bVdSwrJClz+pSZ7pmlzea615Rd7piQqdf33UzlZu6pnP5xPMoeMOKFmyuA2yl5cX2211HQ4ODmwSUjUIXf1+MuzWo9/f376GHV4iCNID95QnuacenFmZO7Cw10oS5eDRd1N8VoQX/BNk3usYsw5WMjqoEIROkHnuNRD5lGOcOmiA0AnsEm2cyGSE/tveLF8RhA4JHkmM8xJznF9Wg71gqQ1CgxQIDVIgNEiB0CAFQoMUCA1SIDRIgdAgBUKDFAgNUiA0SIHQIAVCgxQIDVIgNEiB0CAFQoMUCA1SIDRIgdAgBUKDFAgNUiA0SIHQIAVCgxQIDVIgNEiB0CAFQoMUCA1SIDRIgdAgBUKDFAgNUiA0SIHQIAVCgxQIDVIgNEiB0CAFQoMUCA1S/C/0uqsB0Bv/AEwL5dNeBrk9AAAAAElFTkSuQmCC",
+          "width": "33a918d9-d81c-4ef0-9e6d-13edd2f68c71:number:240",
+          "height": "e5cf2dbd-abb1-4d72-9cc5-5184f83ecb39:number:90",
+          "unit": "94d29825-bae4-4947-8258-d96c4ed8d1ba:string:px"
+        }
+      },
+      "transcriptType": "3a197e01-85c2-4171-abab-00e643e2889c:string:UMOF",
+      "transcriptReq": "4a07a3eb-d7a8-4850-bbe6-754e5481cabb:string:001009862",
+      "transcriptGroup": [
+        {
+          "name": "294d3ce1-5eb1-4344-8dab-5af8b34762d1:string:1300",
+          "term": "1dfbeb22-e8f1-42ec-a6d9-c6983492b1b5:string:2013/2014",
+          "formOfStudy": "6f745dd5-ea00-40b3-99af-c841bcf32bf6:string:ENRL",
+          "fosPrintArea": "55ceb30a-7ab1-4cd4-97e4-11aedaa9ba74:string:ND",
+          "summary": [
+            {
+              "programName": "22365e55-f924-42c2-9baf-903a7e2c4c68:string:Bachelor of Medicine and Bachelor of Surgery",
+              "reportNo": "4ba760e5-6321-4b8a-9287-afb57fa86cc0:number:1"
+            }
+          ],
+          "reportNo": "76e1c3d8-d1c3-4e26-8421-24f0fd069c71:number:1"
+        },
+        {
+          "name": "f8dae6e2-49fd-4323-b3c5-9622fb136222:string:1400",
+          "term": "7b50aeee-c307-4ff3-b356-184cfdc5b092:string:2014/2015",
+          "formOfStudy": "13784a7d-b01c-4403-af10-db62d8eeac1e:string:ENRL",
+          "fosPrintArea": "a464a262-0eb1-49da-93a4-9ff85560bbce:string:ND",
+          "summary": [
+            {
+              "programName": "84ec4329-2939-458a-b40a-bf86a3f83bca:string:Bachelor of Medicine and Bachelor of Surgery",
+              "reportNo": "87272c2a-ae70-4171-950c-88e1107f0aa1:number:1"
+            }
+          ],
+          "reportNo": "a6b511cf-7a9a-4881-a486-37baadcf7d8b:number:1"
+        },
+        {
+          "name": "cd10b6bb-caad-4b0b-8bc5-8710f3478323:string:1500",
+          "term": "2801c876-a637-4ebd-bfcb-d62fe9501f85:string:2015/2016",
+          "formOfStudy": "297d5671-5adb-4656-8c75-1c986137c642:string:ENRL",
+          "fosPrintArea": "e6ab6dd9-8aa3-4ef0-b10b-938a8c81d87a:string:ND",
+          "summary": [
+            {
+              "programName": "e12dce1b-f99a-4d14-be00-2c2d162ddbf9:string:Bachelor of Medicine and Bachelor of Surgery",
+              "reportNo": "735e4db4-aca5-4e3b-b00c-1e02a17723b6:number:1"
+            }
+          ],
+          "reportNo": "16d6f348-0b9f-4b20-86ad-90404a91e9a8:number:1"
+        },
+        {
+          "name": "4d70c16d-9752-440c-98b5-90ea23b56f82:string:1600",
+          "term": "adf2bd9f-daeb-42c8-a004-f08836031fd9:string:2016/2017",
+          "formOfStudy": "f2e08e37-819d-4013-909b-6c32512f30c5:string:ENRL",
+          "fosPrintArea": "e1b7b452-4d95-409c-90e5-48b413e294af:string:ND",
+          "summary": [
+            {
+              "programName": "3065002b-10bf-48fb-b66d-5ebe00e27d91:string:Bachelor of Medicine and Bachelor of Surgery",
+              "reportNo": "824f1573-22b6-4ed2-a197-8fae55a13848:number:1"
+            }
+          ],
+          "reportNo": "58202aca-7e23-46f1-bec7-6b97a10df0d9:number:1"
+        },
+        {
+          "name": "a1b46f58-deb9-4e66-97cc-462d4310cac2:string:1700",
+          "term": "c0dc278f-b48c-40a8-a34e-0f126887eaad:string:2017/2018",
+          "formOfStudy": "a0e9f225-1304-4221-b1d3-600373ec6e3c:string:ENRL",
+          "fosPrintArea": "0acb08ca-5020-49ac-a91d-96ca8b2f30b2:string:ND",
+          "summary": [
+            {
+              "programName": "27479e1b-f2c4-4e7e-83b4-fa0d0637e658:string:Bachelor of Medicine and Bachelor of Surgery",
+              "reportNo": "0ae2dc2e-b537-4fa9-bc27-6879ba04d049:number:1"
+            }
+          ],
+          "reportNo": "7a8b5af3-0a83-4613-8dd4-65fa6043cd39:number:1"
+        }
+      ],
+      "programData": [
+        {
+          "programCode": "fa5817ce-62a2-4865-ad02-803153d78a70:string:B0810",
+          "programName": "085bfb2e-c0ec-4206-9e5a-a0ccc2129302:string:Bachelor of Medicine and Bachelor of Surgery",
+          "statusCode": "37b67ad0-12e7-4a05-9f5c-bd31b5e6b2fa:string:CM",
+          "statusDescription": "7a617a40-3a51-438c-94d1-1e9b1a28a690:string:Completed Programme",
+          "effectiveDate": "4c30610c-9a9e-4ec0-a045-8e5be9714345:string:2018-04-30",
+          "admitTerm": "e080a08d-fd08-4a2c-a2d8-cda50cf234c3:string:1300",
+          "reportNo": "3ef2b259-bd18-4d36-a092-9360af9fecd2:string:1"
+        }
+      ],
+      "degreeData": [
+        {
+          "degreeTitle": "f518d557-7689-4eaf-98ef-c49f8918a1e1:string:Bachelor of Medicine and Bachelor of Surgery",
+          "dateConferred": "350f0ca9-87ce-43e3-af4f-84b64e1c1ff9:string:2018-04-30",
+          "reportNo": "aa92ffad-5870-454c-9754-63fe89bf3ffd:number:1"
+        }
+      ]
+    }
+  },
+  "privacy": {},
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "c2272445796856bcb0d627a25619c04dacc71ef7055fa30a2521a808ba2f0c18",
+    "proof": [
+      "7e1408f79a151f51d456008207044d8c88c1aec14dcc3ba815b06e9b58a0a3f4",
+      "3a500f780780abaf589a3a417fddfb4e65906789234a90e44bf8cf3c692c1ea6",
+      "ca2c7c01ce88da76baecd8fd44e151a0c2b59503ed4edf877fd8447c64a38533",
+      "8b1d40f50be2eb496a872b232ed088fdff2f73937e9951a87a2794b4e9ba6c1d",
+      "2e52e2e8d34cc0127b4557fe9727f55e642bcf21219bf6d06c71932af4dc4926",
+      "7bfc29748a38d23ae9ca8d2c7225873287bd0baa0630ada5963b9e61ac9c3806"
+    ],
+    "merkleRoot": "3862426f819b735c661f7981bfaed07eff1984a447b0406d831c1b15ec75e7c9"
+  }
+}
