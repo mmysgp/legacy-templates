@@ -1,5 +1,6 @@
 import MultiCertificateRenderer from "template-utils/MultiCertificateRenderer";
 import Certificate from "./certificate";
+import SITAddress from "../common/address";
 
 const templates = [
   {
@@ -9,16 +10,10 @@ const templates = [
   }
 ];
 
-const addresses = [
-  "0x897E224a6a8b72535D67940B3B8CE53f9B596800",
-  "0x24a7DE31D231221ab6B1B325Ca5F1AA7bfbaaabA",
-  "0x3f43FB8546E97b2c1D5eD087767C0d2eb2e13f8b"
-];
-
 const SITCert = props => (
   <MultiCertificateRenderer
     templates={templates}
-    whitelist={addresses}
+    whitelist={SITAddress}
     {...props}
   />
 );
