@@ -342,8 +342,8 @@ const renderSignatures = certificate => (
         {get(certificate, "additionalData.certSignatories[0].position")}
       </div>
       <div className="text-center">
-          {get(certificate, "additionalData.certSignatories[0].organisation")}
-        </div>
+        {get(certificate, "additionalData.certSignatories[0].organisation")}
+      </div>
     </div>
     <div className="col-4" />
     <br />
