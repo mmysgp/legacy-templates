@@ -8,7 +8,8 @@ const PartTimeRecipient = ({ certificate }) => (
         <br />
         <br />
         <br />
-        Course Name : &nbsp; {certificate.additionalData.certCourseName.toUpperCase()}
+        Course Name : &nbsp;{" "}
+        {certificate.additionalData.certCourseName.toUpperCase()}
       </div>
 
       <div className="col-5">
