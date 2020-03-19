@@ -121,7 +121,7 @@ const templates = {
   "NP-CET2019-SC-MAGES": NPCET2019MAGES,
   "NP-CET2019-SC-SGINV": NPCET2019SGINV,
   "NP-CET2020-SDFT": NPCET2020SDFT,
-  "NP-AA2020-LDH": NPAA2020LDH,
+  "NP-AA2020-LDH": NPAA2020LDH
 };
 
 export default addDirToTemplatePath("np", templates);
