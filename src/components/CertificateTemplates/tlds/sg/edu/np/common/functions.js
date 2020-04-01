@@ -114,7 +114,11 @@ export const formatCertName = (certId, certName, meritFlag) => {
 
   switch (certType) {
     case "FT":
-      [certPrefix, certDescr] = ["Diploma", certName];
+      if (certName.startsWith("Diploma")) {
+        [certPrefix, certDescr] = splitStringTo2(certName, " in ");
+      } else {
+        [certPrefix, certDescr] = ["Diploma", certName];
+      }
       break;
     case "PTD":
     case "PDP":
