@@ -2,7 +2,7 @@
   "schema": "opencerts/v1.5",
   "data": {
     "id": "832e407f-a107-4d88-b0f2-e2d906918833:string:sg-edu-tp-9999-D01-1234567A-D01",
-    "$template": "883bc1f3-75d8-479a-9ef2-199e228b06b8:string:sg/edu/tp/ptsd_bcaa-2019",
+    "$template": "883bc1f3-75d8-479a-9ef2-199e228b06b8:string:sg/edu/tp/ptsd_stlukes-2019",
     "issuedOn": "ec42384a-1cf0-4968-9ece-49bde03e515e:string:2019-05-30T00:00:00+08:00",
     "expiresOn": "5b5cb212-383a-4e4f-8181-51349ab0ad81:string:9999-12-31T23:59:59.997+08:00",
     "admissionDate": "c0e092e7-8cd0-47d9-9572-f2fcea0906b2:string:2016-05-30T00:00:00+08:00",
@@ -191,4 +191,4 @@
     ],
     "merkleRoot": "5e36b0dc7c300e51b9e1c3e639c0af678b04cc5fa2ca9c1ba41ca1a8eb0da491"
   }
-} 
+}

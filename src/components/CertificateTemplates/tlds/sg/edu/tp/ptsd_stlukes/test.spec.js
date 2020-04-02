@@ -8,7 +8,7 @@ fixture("Temasek Polytechnic").page`http://localhost:3000`;
 const Certificate = "./sample.opencert";
 const RenderedCertificate = Selector("#rendered-certificate");
 const TpLogo = Selector('img[title="Temasek Polytechnic"]');
-const BcaaLogo = Selector('img[title="St Lukes Academy"]');
+const StlukesLogo = Selector('img[title="St Lukes Academy"]');
 
 const validateTextContent = async (t, component, texts) =>
   texts.reduce(
