@@ -29,8 +29,7 @@ const PartTimeExamResults = ({ certificate }) => {
     </span>
   ));
 
-  const awardedCertificatesLabel =
-    "Certificate/Diploma Awarded";
+  const awardedCertificatesLabel = "Certificate/Diploma Awarded";
 
   return (
     <div className="container">

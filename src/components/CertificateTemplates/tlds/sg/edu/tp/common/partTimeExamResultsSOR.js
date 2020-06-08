@@ -4,10 +4,7 @@ import ExamResultsStyles from "./examResultsStyles";
 import SubjectGrades from "./partTimeSubjectGrades";
 
 const PartTimeExamResults = ({ certificate }) => {
-
-  const displayCertName = (value, index) => {
-      return <span>{value.toUpperCase()}</span>;
-  };
+  const displayCertName = value => <span>{value.toUpperCase()}</span>;
 
   const awardedCertificates = _.uniq(
     certificate.additionalData.awardedCertificates
@@ -18,8 +15,7 @@ const PartTimeExamResults = ({ certificate }) => {
     </span>
   ));
 
-  const awardedCertificatesLabel =
-    "Certificate Awarded";
+  const awardedCertificatesLabel = "Certificate Awarded";
 
   return (
     <div className="container">
